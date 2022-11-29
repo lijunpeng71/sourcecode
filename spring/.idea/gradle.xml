@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-context-support" />
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-core" />
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-core/kotlin-coroutines" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-debug" />
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-expression" />
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-instrument" />
             <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-jcl" />
