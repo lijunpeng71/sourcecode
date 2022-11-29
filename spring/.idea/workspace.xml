@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee2783d-8e92-4c80-9ba2-9650201a3c96" name="Default Changelist" comment="" />
+    <list default="true" id="7ee2783d-8e92-4c80-9ba2-9650201a3c96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spring-framework-5.2.22/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework-5.2.22/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +147,7 @@
       <updated>1669703384245</updated>
       <workItem from="1669703389818" duration="1106000" />
       <workItem from="1669705653733" duration="504000" />
-      <workItem from="1669712622015" duration="4553000" />
+      <workItem from="1669712622015" duration="4649000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1669715369696</created>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669717653456</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1669717814902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669717814902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +207,10 @@
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="249" y="88" key="SettingsEditor/0.0.1493.885/128.-1080.1920.1032@0.0.1493.885" timestamp="1669713871728" />
-    <state x="340" y="163" key="Vcs.Push.Dialog.v2" timestamp="1669717659362">
+    <state x="340" y="163" key="Vcs.Push.Dialog.v2" timestamp="1669717818350">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="340" y="163" key="Vcs.Push.Dialog.v2/0.0.1493.885/128.-1080.1920.1032@0.0.1493.885" timestamp="1669717659362" />
+    <state x="340" y="163" key="Vcs.Push.Dialog.v2/0.0.1493.885/128.-1080.1920.1032@0.0.1493.885" timestamp="1669717818350" />
     <state x="228" y="177" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1669717561827">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
