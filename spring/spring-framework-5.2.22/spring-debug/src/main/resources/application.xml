@@ -5,5 +5,5 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<bean id="person" class="cn.xuelianyong.study.spring.domain.Person"/>
-
+	<bean id="myBeanFactoryPostProcessor" class="cn.xuelianyong.study.spring.postprocessers.MyBeanFactoryPostProcessor"/>
 </beans>
