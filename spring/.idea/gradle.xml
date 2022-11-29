@@ -4,13 +4,40 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-frameworker" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../service/gradle-7.1.1" />
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-framework-5.2.22" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../service/gradle-5.6.4" />
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/spring-frameworker" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/buildSrc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/framework-bom" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/integration-tests" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-aop" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-aspects" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-beans" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-context" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-context-indexer" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-context-support" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-core" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-core/kotlin-coroutines" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-expression" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-instrument" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-jcl" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-jdbc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-jms" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-messaging" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-orm" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-oxm" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-test" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-tx" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-web" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-webflux" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-webmvc" />
+            <option value="$PROJECT_DIR$/spring-framework-5.2.22/spring-websocket" />
           </set>
         </option>
       </GradleProjectSettings>
