@@ -1,8 +1,8 @@
 package cn.xuelianyong.study.spring;
 
+import cn.xuelianyong.study.spring.applicationcontext.MyClassPathXmlApplicationContext;
 import cn.xuelianyong.study.spring.domain.Person;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @author lijunpeng
@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 public class Test {
 	public static void main(String[] args) {
-		ApplicationContext ac = new ClassPathXmlApplicationContext("application.xml");
+		ApplicationContext ac = new MyClassPathXmlApplicationContext("application.xml");
 		Person person = ac.getBean(Person.class);
 		System.out.println(person.toString());
 	}
